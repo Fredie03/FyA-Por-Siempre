@@ -12,7 +12,7 @@ body {
 	padding: 0em;
 	background: #E0E0E0 url(images/img01.png) repeat;
 	font-family: 'Parisienne', cursive;
-	font-size: 28pt;
+	font-size: 130%;
 	color: #525252;
 }
 
@@ -20,7 +20,7 @@ h1, h2 {
 	margin: 0em;
 	padding: 0em;
 	font-family: 'Parisienne', cursive;
-	font-size:32pt;
+	font-size:120%;
 	letter-spacing: -0.025em;
 }
 
@@ -28,7 +28,7 @@ h3 {
     margin: 0em;
     padding: 0em;
     font-family: 'Courgette', cursive;
-    font-size:32pt;
+    font-size:135%;
     letter-spacing: -0.025em;
 }
 
