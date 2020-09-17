@@ -147,10 +147,9 @@ ul.style1 .first {
 /** LIST STYLE 2 */
 
 ul.style2 {
+	font-family: 'Parisienne', cursive;
 	margin: 0em;
 	padding: 0em;
-	list-style: none;
-	font-style: italic;
 }
 
 ul.style2 li {
