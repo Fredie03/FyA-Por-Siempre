@@ -16,11 +16,18 @@ body {
 	color: #525252;
 }
 
-h1, h2, h3 {
+h1, h2 {
 	margin: 0em;
 	padding: 0em;
 	font-family: 'Parisienne', cursive;
 	letter-spacing: -0.025em;
+}
+
+h3 {
+    margin: 0em;
+    padding: 0em;
+    font-family: 'Courgette', cursive;
+    letter-spacing: -0.025em;
 }
 
 p {
