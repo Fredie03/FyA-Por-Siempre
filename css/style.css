@@ -40,6 +40,16 @@ h4 {
     letter-spacing: -0.025em;
 }
 
+h5 {
+    margin: 0em;
+    padding: 0em;
+    font-family: 'Indie Flower', cursive;
+    font-size:100%;
+    letter-spacing: -0.025em;
+}
+
+
+
 p {
 	line-height: 250%;
 }
